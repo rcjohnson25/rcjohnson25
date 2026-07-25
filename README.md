@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 -->
 <p float="left">
   <img width="349" height="419" alt="ascii-art2-ezgif com-resize" src="https://github.com/user-attachments/assets/66db6cd8-8e47-45b5-a185-1403a8f9911d" />
-  <img width="349" height="419" alt="ascii-art1-ezgif com-resize" src="https://github.com/user-attachments/assets/b80c345f-57ee-48e1-9aab-71b38470157d" />
+  sdsdasda
 </p>
