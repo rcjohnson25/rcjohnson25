@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 -->
 <p float="left">
   <img width="349" height="419" alt="ascii-art7-ezgif com-resize" src="https://github.com/user-attachments/assets/0cb5edb9-52c9-4e80-9f55-440980ed0884" />
-  <img width="349" height="419" alt="ascii-art (5)" src="https://github.com/user-attachments/assets/70a7d149-a164-4b59-97ae-bd0a018cb683" />
+  <img width="349" height="419" alt="ascii-art (4)" src="https://github.com/user-attachments/assets/d984f74a-7e3d-4bc8-9557-d55c5c1d64b1" />
+
 
 
 
