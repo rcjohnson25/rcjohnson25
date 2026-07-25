@@ -1,5 +1,6 @@
 
 
+
 <!--
 **rcjohnson25/rcjohnson25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,6 +18,6 @@ Here are some ideas to get you started:
 <!--<img width="349" height="419" alt="ascii-art1-ezgif com-resize" src="https://github.com/user-attachments/assets/819a1f47-e06b-4ee6-9671-9f49d3475e34" />
 -->
 <p float="left">
-  <img src="D:\Downloads\ascii-art2-ezgif.com-resize.gif" width="100" />
-  <img src="D:\Downloads\ascii-art1-ezgif.com-resize.gif" width="100" /> 
+  <img width="349" height="419" alt="ascii-art2-ezgif com-resize" src="https://github.com/user-attachments/assets/66db6cd8-8e47-45b5-a185-1403a8f9911d" />
+  <img width="349" height="419" alt="ascii-art1-ezgif com-resize" src="https://github.com/user-attachments/assets/b80c345f-57ee-48e1-9aab-71b38470157d" />
 </p>
