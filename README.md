@@ -1,4 +1,4 @@
-
+<img width="349" height="419" alt="ascii-art1-ezgif com-resize" src="https://github.com/user-attachments/assets/e4756061-9d19-4094-a421-baaf3fb87c84" />
 
 <!--
 **rcjohnson25/rcjohnson25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 <img width="349" height="419" alt="ascii-art1-ezgif com-resize" src="https://github.com/user-attachments/assets/819a1f47-e06b-4ee6-9671-9f49d3475e34" />
 
-<img align="right" width="300" src="ascii-art1-ezgif com-resize">
+<img align="right" width="300" src="D:\Downloads\ascii-art1-ezgif.com-resize.gif">
 
 Your text goes here. It will automatically sit to the left of the image and wrap underneath it if the text is longer than the height of the image.
