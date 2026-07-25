@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **rcjohnson25/rcjohnson25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img width="698" height="937" alt="ascii-art" src="https://github.com/user-attachments/assets/0d2405b8-e1d4-47c0-b025-c4c37d9eba7f" />
