@@ -16,14 +16,6 @@ Here are some ideas to get you started:
 -->
 <!--<img width="349" height="419" alt="ascii-art1-ezgif com-resize" src="https://github.com/user-attachments/assets/819a1f47-e06b-4ee6-9671-9f49d3475e34" />
 -->
-<table>
-  <tr>
-    <td>
-      Your text goes here in the left column.
-    </td>
-    <td>
-      <img align="right" width="300" src="D:\Downloads\ascii-art1-ezgif.com-resize.gif">
-      jjjgj
-    </td>
-  </tr>
-</table>
+
+<img align="right" src="D:\Downloads\ascii-art1-ezgif.com-resize.gif">
+dfdfdf
