@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 <!--<img width="349" height="419" alt="ascii-art1-ezgif com-resize" src="https://github.com/user-attachments/assets/819a1f47-e06b-4ee6-9671-9f49d3475e34" />
 -->
 <p float="left">
-  <img width="349" height="419" alt="ascii-art2-ezgif com-resize" src="https://github.com/user-attachments/assets/66db6cd8-8e47-45b5-a185-1403a8f9911d" />
-  <img width="349" height="419" alt="ascii-art (6)" src="https://github.com/user-attachments/assets/2dadecf8-88b4-4498-a8dc-2d6dc06474d1" />
+  <img width="349" height="419" alt="ascii-art7-ezgif com-resize" src="https://github.com/user-attachments/assets/0cb5edb9-52c9-4e80-9f55-440980ed0884" />
+  <img width="349" height="419" alt="ascii-art (5)" src="https://github.com/user-attachments/assets/70a7d149-a164-4b59-97ae-bd0a018cb683" />
+
 
 
 
