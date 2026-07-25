@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 <!--<img width="349" height="419" alt="ascii-art1-ezgif com-resize" src="https://github.com/user-attachments/assets/819a1f47-e06b-4ee6-9671-9f49d3475e34" />
 -->
+<img src="D:\Downloads\ascii-art1-ezgif.com-resize.gif" align="left" width="200px"/>
+some text floating around the image
 
-<img align="left" src="D:\Downloads\ascii-art1-ezgif.com-resize.gif">
-dfdfdf
+
