@@ -23,6 +23,7 @@ Here are some ideas to get you started:
     </td>
     <td>
       <img align="right" width="300" src="D:\Downloads\ascii-art1-ezgif.com-resize.gif">
+      jjjgj
     </td>
   </tr>
 </table>
