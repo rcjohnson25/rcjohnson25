@@ -1,4 +1,4 @@
-<img width="349" height="419" alt="ascii-art1-ezgif com-resize" src="https://github.com/user-attachments/assets/e4756061-9d19-4094-a421-baaf3fb87c84" />
+
 
 <!--
 **rcjohnson25/rcjohnson25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 <!--<img width="349" height="419" alt="ascii-art1-ezgif com-resize" src="https://github.com/user-attachments/assets/819a1f47-e06b-4ee6-9671-9f49d3475e34" />
 -->
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![s]("D:\Downloads\ascii-art2-ezgif.com-resize.gif")  |  ![d]("D:\Downloads\ascii-art1-ezgif.com-resize.gif")
-
-
+<p float="left">
+  <img src="D:\Downloads\ascii-art2-ezgif.com-resize.gif" width="100" />
+  <img src="D:\Downloads\ascii-art1-ezgif.com-resize.gif" width="100" /> 
+</p>
