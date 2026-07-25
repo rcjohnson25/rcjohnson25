@@ -19,16 +19,17 @@ Here are some ideas to get you started:
 -->
 <p float="left">
   <img width="349" height="419" alt="ascii-art2-ezgif com-resize" src="https://github.com/user-attachments/assets/66db6cd8-8e47-45b5-a185-1403a8f9911d" />
-  sdsdasda
-  sdasda
-  dasd
-  asd
-  asdas
-  das
-  das
-  da
-  sd
-  asd
-  asd
+  sdsdasda<br>
+  sdasda<br>
+  dasd<br>
+  asd<br>
+  asdas<br>
+  das<br>
+  das<br>
+  da<br>
+  sd<br>
+  asd<br>
+  asd<br>
   aa
+
 </p>
