@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 -->
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![]("D:\Downloads\ascii-art2-ezgif.com-resize.gif")  |  ![]("D:\Downloads\ascii-art1-ezgif.com-resize.gif")
+![s]("D:\Downloads\ascii-art2-ezgif.com-resize.gif")  |  ![d]("D:\Downloads\ascii-art1-ezgif.com-resize.gif")
 
 
