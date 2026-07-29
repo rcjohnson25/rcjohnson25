@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 <!--<img width="349" height="419" alt="ascii-art1-ezgif com-resize" src="https://github.com/user-attachments/assets/819a1f47-e06b-4ee6-9671-9f49d3475e34" />
 -->
-# 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 𝙍𝙤𝙗𝙚𝙧𝙩
+# 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 𝙍𝙤𝙗𝙚𝙧𝙩 𝙅𝙤𝙝𝙣𝙨𝙤𝙣
 
 <p float="left">
   <img width="349" height="419" alt="ascii-art7-ezgif com-resize" src="https://github.com/user-attachments/assets/0cb5edb9-52c9-4e80-9f55-440980ed0884" />
