@@ -35,106 +35,21 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/>
 
   ```javascript
-  const anmol = {
-    name: "Anmol Pratap Singh",
+  const Robert = {
+    name: "Robert Johnson",
     pronouns: ["he", "him"],
-    languages: ["TypeScript", "JavaScript", "Python", "Dart"],
+    languages: ["Python", "Java", "C++"],
     askMeAbout: [
-      "web development",
-      "mobile app development",
-      "cloud architecture",
+      "Machine Consciousness",
+      "AI/ML",
       "generative AI",
-      "agentic systems",
-      "SaaS products",
+      "Philosophy of Law",
+      "AI Ethics",
       "system design"
     ],
   
-    technologies: {
-      frontend: {
-        frameworks: ["React", "Next.js"],
-        styling: ["Tailwind CSS", "Sass", "Bootstrap"],
-        uiLibraries: [
-          "Material UI",
-          "Ant Design",
-          "Chakra UI",
-          "shadcn/ui"
-        ]
-      },
-  
-      backend: {
-        node: ["Node.js", "Express", "NestJS"],
-        python: ["Flask"]
-      },
-  
-      mobile: {
-        crossPlatform: ["Flutter"]
-      },
-  
-      devOps: {
-        tools: ["Docker", "GitHub Actions", "Nginx"],
-        practices: ["CI/CD", "Infrastructure as Code"]
-      },
-  
-      cloud: {
-        aws: [
-          "EC2",
-          "S3",
-          "RDS",
-          "Lambda",
-          "Fargate",
-          "CloudWatch"
-        ],
-        gcp: [
-          "Compute Engine",
-          "Cloud Run",
-          "Cloud Functions",
-          "Cloud Storage",
-          "Firestore",
-          "BigQuery"
-        ]
-      },
-  
-      databases: {
-        relational: ["PostgreSQL"],
-        nosql: ["MongoDB", "Firebase Realtime DB", "Firestore"],
-        inMemory: ["Redis"]
-      },
-  
-      realtimeAndAPIs: [
-        "REST APIs",
-        "WebSockets",
-        "Socket.IO"
-      ],
-  
-      ai: {
-        generativeAI: [
-          "LLM integration",
-          "Prompt engineering",
-          "Vector databases",
-          "AI agents",
-          "Workflow automation"
-        ],
-        architectures: [
-          "agentic architecture",
-          "tool-augmented agents",
-          "multi-agent systems"
-        ],
-        models: ["OpenAI", "Gemini", "Llama"]
-      }
-    },
-  
-    architecture: {
-      frontend: ["SPA", "SSR"],
-      backend: ["monolith", "microservices", "serverless"],
-      cloudPatterns: [
-        "event-driven",
-        "agentic systems",
-        "scalable SaaS"
-      ],
-      data: ["relational", "nosql", "in-memory"]
-    },
-  currentFocus:"Building scalable AI-first SaaS products with agentic architectures",
-  funFact: "Most bugs disappear after a coffee and a clean commit history"
+  currentFocus: "Developing generative AI communities and becoming an artificial anthropologist",
+  funFact: "The closest way to my heart is through my wardrobe or my Spotify. your choice"
   };
   ```
 </p>
