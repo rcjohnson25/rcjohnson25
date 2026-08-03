@@ -48,8 +48,7 @@ Here are some ideas to get you started:
       "system design"
     ],
   
-  currentFocus: "Developing generative AI communities and becoming an artificial anthropologist",
-  funFact: "The closest way to my heart is through my wardrobe or my Spotify. your choice"
+  currentFocus: "Developing generative AI communities and becoming an artificial anthropologist"
   };
   ```
 </p>
