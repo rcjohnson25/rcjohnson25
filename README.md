@@ -39,7 +39,10 @@ Here are some ideas to get you started:
     name: "Robert Johnson",
     pronouns: ["he", "him"],
     languages: ["Python", "Java", "C++"],
-    relevant coursework: ["Data Structures and Algorithms", "Machine Learning", "Software Development", "Linear Algebra", "Computer Organization", "Discrete Structures", "Number Theory", "Calculus-Based Physics", "Ordinary Differential Equations", "Philosophy of AI", "Statistics"],
+    relevant coursework: ["Data Structures and Algorithms", "Machine Learning", "Software Development",
+                          "Linear Algebra", "Computer Organization", "Discrete Structures", "Number Theory",
+                          "Calculus-Based Physics", "Ordinary Differential Equations",
+                          "Philosophy of AI", "Statistics", "Linguistics"],
     askMeAbout: [
       "Machine Consciousness",
       "AI/ML",
