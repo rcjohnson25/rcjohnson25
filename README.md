@@ -52,7 +52,7 @@ Here are some ideas to get you started:
       "system design"
     ],
   
-  currentFocus: "Developing generative AI communities and becoming an artificial anthropologist"
+  currentFocus: "Developing generative AI communities and pretending to be an anthropologist"
   };
   ```
 </p>
